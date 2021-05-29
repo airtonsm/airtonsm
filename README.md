@@ -16,7 +16,7 @@ Welcome to my profile
 <img src="https://img.shields.io/badge/html%205-e85417?style=for-the-badge&logo=html5&logoColor=white&labelColor=e85417" />
 <img src="https://img.shields.io/badge/CSS%203-5188FE?style=for-the-badge&logo=css3&logoColor=white&labelColor=5188FE" />
 <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white&labelColor=blue" />
-<img src="https://img.shields.io/badge/POSTGRESQL-blue?style=for-the-badge&logo=POSTGRESQL&logoColor=white&labelColor=blue" />
+<img src="https://img.shields.io/badge/POSTGRESQL-blue?style=for-the-badge&logo=POSTGRES&logoColor=white&labelColor=blue" />
 <img src="https://img.shields.io/badge/POSTMAN-ec843b?style=for-the-badge&logo=POSTMAN&logoColor=white&labelColor=ec843b" />
 <img src="https://img.shields.io/badge/INSOMNIA-purple?style=for-the-badge&logo=INSOMNIA&logoColor=white&labelColor=purple" />
 
