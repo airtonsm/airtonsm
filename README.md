@@ -10,14 +10,15 @@ Welcome to my profile
 
 <div text-align="justify">
 <img src="https://img.shields.io/badge/JAVA-FF0000?style=for-the-badge&logo=JAVA&logoColor=white&labelColor=FF0000" />
-<img src="https://img.shields.io/badge/spring boot-91FF49?style=for-the-badge&logo=mongodb&logoColor=5C290E&labelColor=91FF49" />
+<img src="https://img.shields.io/badge/spring boot-91FF49?style=for-the-badge&logo=spring&logoColor=5C290E&labelColor=91FF49" />
+<img src="https://img.shields.io/badge/HEROKU-d77df2?style=for-the-badge&logo=HEROKU&logoColor=fff&labelColor=d77df2" />
 <img src="https://img.shields.io/badge/Js-FFDC0B?style=for-the-badge&logo=javascript&logoColor=000&labelColor=FFDC0B" />
-<img src="https://img.shields.io/badge/Nodejs-1FC41A?style=for-the-badge&logo=mongodb&logoColor=fff&labelColor=1FC41A" />
-<img src="https://img.shields.io/badge/html%205-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange" />
+<img src="https://img.shields.io/badge/html%205-e85417?style=for-the-badge&logo=html5&logoColor=white&labelColor=e85417" />
 <img src="https://img.shields.io/badge/CSS%203-5188FE?style=for-the-badge&logo=css3&logoColor=white&labelColor=5188FE" />
 <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white&labelColor=blue" />
 <img src="https://img.shields.io/badge/POSTGRESQL-blue?style=for-the-badge&logo=POSTGRESQL&logoColor=white&labelColor=blue" />
-
+<img src="https://img.shields.io/badge/POSTMAN-ec843b?style=for-the-badge&logo=POSTMAN&logoColor=white&labelColor=ec843b" />
+<img src="https://img.shields.io/badge/INSOMNIA-purple?style=for-the-badge&logo=INSOMNIA&logoColor=white&labelColor=purple" />
 
 </div>
 
