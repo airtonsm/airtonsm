@@ -32,7 +32,7 @@ Welcome to my profile
 
 How to reach me: LinkedIn and email:
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-1781EB?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=1781EB)](https://www.linkedin.com/in/airton-silva-285a90192/) [![Hotmail Badge](https://img.shields.io/badge/gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=FF0000)](mailto:airtonsmorais28@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-1781EB?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=1781EB)](https://www.linkedin.com/in/jos%C3%A9-airton-silva-morais-285a90192/) [![Hotmail Badge](https://img.shields.io/badge/gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=FF0000)](mailto:airtonsmorais28@gmail.com)
 <br>
 <br>
 <br>
